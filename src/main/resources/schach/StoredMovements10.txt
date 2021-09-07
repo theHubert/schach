@@ -1,0 +1,3 @@
+Datum und Uhrzeit:2020/07/06 05:35:08
+Gegner des gespeicherten Spiels: player
+---

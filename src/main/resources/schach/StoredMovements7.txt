@@ -1,0 +1,6 @@
+Date and time: 2020/07/05 17:52:57
+Opponent of stored game: player
+---
+d2-d4
+e7-e5
+d4-e5

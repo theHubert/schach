@@ -1,0 +1,26 @@
+#pane{
+    -fx-background-image: url("backgroundMainMenu.png");
+    -fx-background-size: stretch;
+}
+#button {
+    -fx-background-color: #ffffff;
+    -fx-background-radius:1;
+    -fx-border-color: #cdba5f;
+    -fx-border-width: 2 2 2 2;
+}
+#chessTitle {
+	-fx-font-family: "Tahoma";
+    -fx-font-size: 100px;
+    -fx-text-fill: #cdba5f;
+    -fx-stroke-width: 1;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+#enterIndex {
+	-fx-font-weight: bold;
+	-fx-font-size: 20px;
+}
+#basic{
+    -fx-background-image: url("backgroundBasic.png");
+    -fx-background-size: stretch;
+}
